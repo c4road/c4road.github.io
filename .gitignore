@@ -1,4 +1,5 @@
 _site
+/utils/front-matter-examples.yml
 backlog.md
 .sass-cache
 .jekyll-cache
