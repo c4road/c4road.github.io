@@ -5,7 +5,7 @@
 layout: home
 author_profile: true
 header:
-    image: assets/images/splash.png
-entries_layout: grid
-classes: wide
+    image: assets/images/site/road.jpg
+# entries_layout: grid
+# classes: wide
 ---

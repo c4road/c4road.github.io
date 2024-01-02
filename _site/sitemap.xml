@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/layout-example-copy/</loc>
+<loc>http://localhost:4000/quantitative-risk-python/</loc>
 <lastmod>2023-12-25T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/layout-example/</loc>
-<lastmod>2023-12-25T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/layout-example_2-copy/</loc>
-<lastmod>2023-12-25T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/layout-example_2/</loc>
-<lastmod>2023-12-25T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/my-post-copy/</loc>
-<lastmod>2023-12-25T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/my-post/</loc>
-<lastmod>2023-12-25T00:00:00-03:00</lastmod>
+<loc>http://localhost:4000/sobre-este-sitio-y-su-autor/</loc>
+<lastmod>2024-01-01T00:00:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
