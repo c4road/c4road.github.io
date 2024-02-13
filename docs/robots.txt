@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://c4road.github.io/sitemap.xml

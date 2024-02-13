@@ -6,8 +6,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Reflexiones sobre el sitio y su autor",
-        "excerpt":"El contenido de este blog pretende agruparse en dos categorías, una técnica enfocada principalmente en tecnología y finanzas; y una personal sobre desarrollo individual, inteligencia emocional, gerencia del tiempo y negocios. Algunos temas técnicos que intentaré cubrir: Análisis de activos financieros, inversiones alternativas, blockchain, trading de opciones, análisis fundamental, gerencia...","categories": [],
-        "tags": [],
-        "url": "/sobre-este-sitio-y-su-autor/",
+        "excerpt":"El contenido de este blog pretende agruparse en dos categorías, una técnica enfocada principalmente en tecnología y finanzas; y una personal sobre desarrollo individual, inteligencia emocional, gerencia del tiempo y negocios. Algunos temas técnicos que intentaré cubrir: Análisis de activos financieros, inversiones alternativas, blockchain, trading de opciones, análisis fundamental, gerencia...","categories": ["about"],
+        "tags": ["presentation","technology"],
+        "url": "/about/sobre-este-sitio-y-su-autor/",
         "teaser": null
       }]

@@ -1,11 +1,17 @@
 ---
 layout: single
+comments: true
 title: "Reflexiones sobre el sitio y su autor"
 excerpt: "Te cuento un poco sobre mi y sobre mis expectativas con este proyecto."
 type: post
 header:
     overlay_color: "#333"
 classes: wide
+categories:  
+    - about
+tags:
+    - presentation 
+    - technology
 ---
 
 El contenido de este blog pretende agruparse en dos categorías, una técnica enfocada principalmente en tecnología y finanzas; y una personal sobre desarrollo individual, inteligencia emocional, gerencia del tiempo y negocios. Algunos temas técnicos que intentaré cubrir: Análisis de activos financieros, inversiones alternativas, blockchain, trading de opciones, análisis fundamental, gerencia de riesgo, programación, ciencia de datos, y otros. Identificar y estudiar la intersección de estos temas es el propósito de mi investigación, siempre de cara a encontrar ideas de desarrollo que sean prácticas y funcionales más alla del desafío teórico y técnico que ello implique.
