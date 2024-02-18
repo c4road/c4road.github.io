@@ -1,4 +1,7 @@
 serve:
+	bundle exec jekyll serve -o -V
+
+serve_prod:
 	JEKYLL_ENV=production bundle exec jekyll serve -o -V
 
 new_draft:
@@ -19,6 +22,3 @@ notebook_to_md:
 
 new_nb:
 	touch _notebooks/$(name).ipynb && code _notebooks/$(name).ipynb 
-
-open_theme_source:
-	
