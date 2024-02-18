@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy Jekyll with GitHub Pages 
 
 on:
   push:
@@ -46,5 +46,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4  # https://github.com/actions/deploy-pages
-          # with:
-          # name: c4road-jeykill-artifact
