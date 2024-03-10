@@ -1,7 +1,7 @@
 ---
 layout: single
 comments: true
-title: "Reflexiones sobre el sitio y su autor"
+title: "Entérate de la motivación que existe detrás de esta iniciativa"
 excerpt: "Te cuento un poco sobre mi y sobre mis expectativas con este proyecto."
 type: post
 header:
