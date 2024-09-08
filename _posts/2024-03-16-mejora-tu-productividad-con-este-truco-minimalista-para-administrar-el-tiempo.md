@@ -10,16 +10,14 @@ published: true
 comments: true
 categories:  
     - gerencia
-    - spanish
-    - productivity
 tags:
     - gerencia
-    - kaizen
+    - spanish articles
 ---
 
 El tiempo es el único recurso que realmente es tuyo completamente, es importante y relevante desde todo punto de vista porque nadie puede usarlo por ti. Socialmente hablando, ofrecer tiempo de calidad es una forma de comunicar respeto y apreciación, cada minuto de retraso a un compromiso sea profesional o personal erosiona la reputación y puede ser el elemento determinante entre lograr o lo que sea que estemos negociando. Desde un punto de vista gerencial, saber priorizarlo basándonos en los beneficios y los potenciales riesgos es propio de personas productivas y eficientes. Asimismo, es una cualidad del experto medirlo y estimarlo con alto grado de precision.
 
-Evidentemente el tiempo se torna más valioso con los años ya que hacemos conciencia que es un recurso escaso, tomamos como mejor decisión aquella que no lo desperdicia, aquella que lo invierte o extrae el mayor aprendizaje posible. Sin embargo, todos somos vulnerables: La apatía, el miedo, la incertidumbre, falta de motivación o compromiso que produce el pensamiento excesivo, son algunos de los enemigos de la productividad y casi siempre conviene actuar para luchar contra esa fricción del pensamiento y asi evitar la llamada parálisis por análisis. Para ello, son numerosos los “hacks” o psicologías del comportamiento que “gamifican” la productividad y facilitan la obtención de resultados y, consecuentemente la satisfacción propia de la meta cumplida, incluso si se trata de una meta diaria. 
+Evidentemente el tiempo se torna más valioso con los años ya que hacemos conciencia que es un recurso escaso, tomamos como mejor decisión aquella que no lo desperdicia, aquella que lo invierte o extrae el mayor aprendizaje posible. Sin embargo, todos somos vulnerables: La apatía, el miedo, la incertidumbre, falta de motivación o compromiso que produce el pensamiento excesivo, son algunos de los enemigos de la productividad y casi siempre conviene actuar para luchar contra esa fricción del pensamiento y asi evitar la llamada parálisis por análisis. Para ello, son numerosos los existen “hacks” o psicologías del comportamiento que “gamifican” la productividad y facilitan la obtención de resultados y, consecuentemente la satisfacción propia de la meta cumplida, incluso si se trata de una meta diaria. 
 
 Algunas actividades son fáciles de hacer porque nos apasionan y sólo pensar en ellas nos dan ese choque dopaminérgico que nos pone en marcha. El problema emerge de intentar cosas nuevas y/o difíciles o proyectos que parecen muy largos. Encontrar la disciplina en esos casos no es tan difícil, pero requiere de iniciativa y algún tipo de incentivo, miedo al fracaso o recompensa. Más aun, encontrar la disciplina y al mismo tiempo experimentar un estado de flow o concentración profunda demanda “músculo” de fuerza de voluntad, que se obtiene entrenándolo de la misma forma que se entrena para obtener una destreza física, a través del movimiento y de superar el estrés previo a la actividad. 
 
